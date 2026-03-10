@@ -1,0 +1,18 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.tmp
+*.cache
+*.log
+*.vsidx
+
+# Rider / Resharper
+.idea/
+
+# Others
+*.DS_Store
